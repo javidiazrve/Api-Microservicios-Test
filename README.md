@@ -35,6 +35,9 @@ $ npm install
 ## Running the app
 
 ```bash
+# Antes de testear, iniciar mongodb en local
+$ mongod
+
 # Testeo en local
 $ npm run start
 ```
